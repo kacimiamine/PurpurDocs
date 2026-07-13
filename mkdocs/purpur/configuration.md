@@ -460,7 +460,10 @@ Requires the [`bukkit.command.tpsbar`](permissions#bukkitcommandtpsbar) permissi
 * ##### reverse-bubble-column-flow
     - **default**: false
     - **description**: Set to true to make downward bubble columns generate instead of upward bubble columns when soul sand is placed/generated under water-source blocks.
-
+#### leaves
+* ##### instant-decay
+    - **default**: false
+    - **description**: Set to true to make the leaves instantly decay after breaking a tree.
 
 
 ### broadcasts
