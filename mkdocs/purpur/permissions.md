@@ -29,6 +29,8 @@ the mob's Entity ID.
         - Shoots flames when spacebar is pressed
     - `allow.special.wither`
         - Shoots a wither head on mouse click
+    - `allow.special.breeze`
+        - Shoots a wind charge when spacebar is pressed
 
 ## allow.powered.creeper
 Requires enabling [`creeper.ridable`](configuration#creeper) in purpur.yml
